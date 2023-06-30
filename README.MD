@@ -1,7 +1,7 @@
 <h1 align="center"> Parking Control API</h1>
 
 <div align="center">
-Aplicação backend para um sistema de controle de vagas de estacionamento de condominio. 
+Desenvolvimento do backend para um sistema de gerenciamento de vagas de estacionamento em condomínio. 
 O projeto foi desenvolvido no Framework Spring utilizando a arquitetura API Rest e a comunicação com o banco de dados PostgreSQL.<br>
 
 <img alt="Imagem da vaga de garagem" src="parkingSpot.png" />
